@@ -1,3 +1,6 @@
 # kokoa clone 2021 challenge
 
-Css got so much better!
+Step one.
+start coding.
+
+In nomadcoder - kokoa clone challenge
